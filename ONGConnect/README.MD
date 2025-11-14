@@ -32,7 +32,7 @@ start index.html
 ```
 
 ## 👨‍💻 Autores
-**Nicollas Santana de Sousa e Cauã Andrade da Silva**  
+**Nicollas Santana de Sousa e Cauã de Andrade Silva**  
 Desenvolvedores Front-End | Entusiastas de Acessibilidade e Web Performance
 
 ## 📝 Licença
@@ -40,4 +40,5 @@ Licença MIT — uso livre para aprendizado.
 
 
 > “Transformando código em impacto social.”
+
 
